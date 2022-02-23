@@ -16,9 +16,9 @@
 <!-- <a href=<> target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="20" width="20" /></a>
 <a href=<> target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg height="20" width="20" /></a>
 <a href=<> target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg height="20" width="20" /></a> -->
-<a href=https://www.linkedin.com/in/mrunix1998 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg height="20" width="20" /></a>
-<a href=https://www.instagram.com/mohammad331saleh target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="20" width="20" /></a>
-<a href=https://t.me/mrunix1998 target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="20" width="20" /></a>
+<a href=https://www.linkedin.com/in/mrunix1998 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg height="30" width="60" /></a>
+<a href=https://www.instagram.com/mohammad331saleh target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="30" width="60" /></a>
+<a href=https://t.me/mrunix1998 target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="60" /></a>
 </p>
 
 ![Visits](https://badges.pufler.dev/visits/mrunix1998/mrunix1998)
