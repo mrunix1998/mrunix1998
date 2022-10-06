@@ -36,3 +36,26 @@
 </p>
 
 <br/>
+
+
+
+
+
+</p>
+
+<!-- [![Bradley's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bradleyboyuyang&theme=xcode)](https://github.com/mrunix1998) -->
+
+
+<!-- <img height="265px" width="900px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrunix1998&theme=gruvbox"/> -->
+
+
+<p align="left">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-view.svg">
+	</a>
+</p>
+
+
+<!-- <p align="left">
+	<img width="500em" src="./github-metrics.svg" />
+</p> -->
