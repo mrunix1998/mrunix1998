@@ -21,9 +21,22 @@
 <a href=https://t.me/mrunix1998 target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="30" width="60" /></a>
 </p>
 
-![Visits](https://badges.pufler.dev/visits/mrunix1998/mrunix1998)
+<!-- ![Visits](https://badges.pufler.dev/visits/mrunix1998/mrunix1998)
 ![Repos](https://badges.pufler.dev/repos/mrunix1998)
-![Gists](https://badges.pufler.dev/gists/mrunix1998)
+![Gists](https://badges.pufler.dev/gists/mrunix1998) -->
+
+<!-- 
+![Repos](https://badges.strrl.dev/repos/${mrunix1998})
+
+![Gists](https://badges.strrl.dev/gists/${mrunix1998}) -->
+
+<!-- 
+[![Visits Badge](https://badges.strrl.dev/visits/${mrunix1998}/${mrunix1998})](https://badges.strrl.dev)
+
+[![Public Gists Badge](https://badges.strrl.dev/gists/${mrunix1998})](https://badges.strrl.dev)
+
+[![Public Gists Badge](https://badges.strrl.dev/gists/${mrunix1998})](https://badges.strrl.dev) -->
+
 
 <br/>  
 
